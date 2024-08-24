@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "D2INwEjxvVP5/Ln51R7Lxxwggt6aiVM+1YzVlxeyUUiu4HGde0mGOSrxv+iGPamMi7zyujdXcmLBoie7zxUO2Q==",
+  "dgSpecHash": "uhUUUleE07vx1iHzRAOkmzRkmTlGq/yHKAO23NP0XeICiL8MyxuTDiljC11xbl/UDn6/eDmy1LB1tiL/rr85Yw==",
   "success": true,
-  "projectFilePath": "C:\\repository\\01_dio\\formacao-dotnet\\ProjetoMVC\\ProjetoMVC.csproj",
+  "projectFilePath": "C:\\repository\\01_dio\\dotnet-formacao\\ProjetoMVC\\ProjetoMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\pc\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\pc\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",

@@ -1976,11 +1976,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\repository\\01_dio\\formacao-dotnet\\ProjetoMVC\\ProjetoMVC.csproj",
+      "projectUniqueName": "C:\\repository\\01_dio\\dotnet-formacao\\ProjetoMVC\\ProjetoMVC.csproj",
       "projectName": "ProjetoMVC",
-      "projectPath": "C:\\repository\\01_dio\\formacao-dotnet\\ProjetoMVC\\ProjetoMVC.csproj",
+      "projectPath": "C:\\repository\\01_dio\\dotnet-formacao\\ProjetoMVC\\ProjetoMVC.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
-      "outputPath": "C:\\repository\\01_dio\\formacao-dotnet\\ProjetoMVC\\obj\\",
+      "outputPath": "C:\\repository\\01_dio\\dotnet-formacao\\ProjetoMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
